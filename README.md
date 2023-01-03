@@ -16,4 +16,11 @@ Pasta
  2. Ice Cream
  3. Pudding
  
- 
+ ```
+this is code
+```
+[This text links to GOOGLE](https://www.google.com/?client=safari)
+
+![alt text](https://pbs.twimg.com/profile_images/556169790587281409/AwkaVrhP_400x400.png).
+
+
